@@ -27,7 +27,7 @@ mkdir -p /c/fdu/csci4380/projects
 
 #cd to where you put your example projects
 As example, at bash command line issue;
-cd /c/fdu/csci4380/projects
-git clone https://github.com/fdu-csci4380/ex3-maven-openCSV.git
-or
-git clone https://github.com/fdu-csci4380/ex3-maven-openCSV.get whateverDirectoryNameYouWantStuffToBeClonedInto
++ cd /c/fdu/csci4380/projects
++ git clone https://github.com/fdu-csci4380/ex3-maven-openCSV.git
++ or
++ git clone https://github.com/fdu-csci4380/ex3-maven-openCSV.get whateverDirectoryNameYouWantStuffToBeClonedInto
